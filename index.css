@@ -1,0 +1,57 @@
+body{
+    background-color: lightgreen;
+    margin: 0px;
+}
+tfoot{
+    background-color: wheat;
+    font-style: italic;
+    color: green;
+    /* width:200px  */
+}
+#image{
+    padding: 0px;
+}
+#new{
+    background-color: wheat;
+    color: green;
+    font-style: italic;
+}
+#border{
+    text-decoration: overline;
+    border-top:dotted ;
+    border-bottom:solid ;
+}
+#img{
+    padding-top:5% ;
+}
+.text{
+    
+    text-decoration: underline;
+}
+.loc{
+    background-color: aliceblue;
+    margin: 3%;
+    border: black solid;
+    padding-bottom: 2%;
+    border-radius: 2%;
+}
+#head{
+    border: solid;
+}
+#heading{
+    text-decoration: underline;
+}
+.dinner{
+    font-style: italic;
+}
+.lunch:hover{
+    font-size: larger;
+}
+.BreakFast:hover{
+    font-size: larger;
+}
+#hover:hover{
+    font-size: larger;
+    border-style: groove;
+    border-color: green;
+}
